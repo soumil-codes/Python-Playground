@@ -1,0 +1,215 @@
+[11:49:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[11:49:40] [ServerMain/INFO]: Loaded 1515 recipes
+[11:49:40] [Server thread/INFO]: Starting json RPC server on 0.0.0.0:9900
+[11:49:40] [Server thread/INFO]: Json-RPC Management connection listening on 0.0.0.0:9900
+[11:49:40] [Server thread/INFO]: Starting minecraft server version 26.1.1
+[11:49:40] [Server thread/INFO]: Loading properties
+[11:49:40] [Management server IO #1/INFO]: RPC Connection #1: Management connection opened for /172.20.0.1:10516
+[11:49:40] [Server thread/INFO]: This server is running Spigot version 4612-Spigot-4a90bec-795738b (MC: 26.1.1) (Implementing API version 26.1.1-R0.1-SNAPSHOT)
+[11:49:41] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[11:49:41] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[11:49:41] [Server thread/INFO]: Debug logging is disabled
+[11:49:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:49:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:49:41] [Server thread/INFO]: Default game type: SURVIVAL
+[11:49:41] [Server thread/INFO]: Generating keypair
+[11:49:41] [Server thread/INFO]: Starting Minecraft server on *:22062
+[11:49:42] [Server thread/INFO]: [TreeAssist] Loading TreeAssist v7.3.69
+[11:49:42] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
+[11:49:42] [Server thread/INFO]: [VeinMiner] Loading VeinMiner v2.4.0
+[11:49:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:49:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:49:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:49:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:49:42] [Server thread/INFO]: Preparing level "world"
+[11:49:42] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:49:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:49:42] [Server thread/INFO]: Mob Spawn Range: 6
+[11:49:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:49:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:49:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:49:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:49:42] [Server thread/INFO]: Max TNT Explosions: 100
+[11:49:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:49:42] [Server thread/INFO]: View Distance: 5
+[11:49:42] [Server thread/INFO]: Simulation Distance: 5
+[11:49:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:49:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:49:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:49:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:49:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:49:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:49:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:49:43] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:49:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:49:43] [Server thread/INFO]: Mob Spawn Range: 6
+[11:49:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:49:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:49:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:49:43] [Server thread/INFO]: Max TNT Explosions: 100
+[11:49:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:49:43] [Server thread/INFO]: View Distance: 5
+[11:49:43] [Server thread/INFO]: Simulation Distance: 5
+[11:49:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:49:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:49:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:49:43] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:49:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:49:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:49:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:49:43] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:49:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:49:43] [Server thread/INFO]: Mob Spawn Range: 6
+[11:49:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[11:49:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[11:49:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[11:49:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:49:43] [Server thread/INFO]: Max TNT Explosions: 100
+[11:49:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:49:43] [Server thread/INFO]: View Distance: 5
+[11:49:43] [Server thread/INFO]: Simulation Distance: 5
+[11:49:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:49:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:49:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:49:43] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:49:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:49:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:49:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:49:43] [Server thread/INFO]: Loading 0 persistent chunks...
+[11:49:43] [Server thread/INFO]: Time elapsed: 1 ms
+[11:49:43] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.69
+[11:49:43] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
+[11:49:43] [Server thread/INFO]: [TreeAssist] debugging: off
+[11:49:43] [Thread-4/INFO]: [TreeAssist] Checking for updates...
+[11:49:43] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.4.0
+[11:49:43] [Server thread/INFO]: [VeinMiner] Using "sqlite" for persistent data storage.
+[11:49:43] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[11:49:43] [Server thread/INFO]: [VeinMiner] Added 15 aliases.
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 3 unique items and 31 unique blocks.
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 7 unique items and 12 unique blocks.
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 7 unique items and 24 unique blocks.
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 2 unique items and 21 unique blocks.
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 12 unique blocks.
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registered category with id "forCustom" holding 2 unique items and 1 unique blocks.
+[11:49:43] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
+[11:49:43] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registering commands
+[11:49:43] [Server thread/INFO]: [VeinMiner] Registering events
+[11:49:43] [Server thread/INFO]: [VeinMiner] Vault not found. Economy support suspended
+[11:49:43] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[11:49:43] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[11:49:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:49:43] [Server thread/INFO]: Done (1.552s)! For help, type "help"
+[11:49:43] [Server thread/INFO]: Starting GS4 status listener
+[11:49:43] [Server thread/INFO]: Thread Query Listener started
+[11:49:43] [Query Listener #1/INFO]: Query running on 0.0.0.0:9898
+[11:49:44] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] You are on the latest version of VeinMiner!
+[11:49:44] [Server thread/INFO]: JMX monitoring enabled
+[11:49:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:49:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:49:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:49:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:49:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:49:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:49:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:49:59] [User Authenticator #1/INFO]: UUID of player sachdeeparora is b7dda88d-51a7-3310-8c48-d9681cae9603
+[11:50:02] [Server thread/INFO]: sachdeeparora joined the game
+[11:50:02] [Server thread/INFO]: sachdeeparora[/104.28.158.60:13241] logged in with entity id 1 at ([world]-296.03299966458906, 64.0, 255.60867252997608)
+[12:00:09] [Server thread/INFO]: sachdeeparora fell from a high place
+[12:01:02] [Server thread/INFO]: [sachdeeparora: Set own game mode to Spectator Mode]
+[12:01:26] [Server thread/INFO]: [sachdeeparora: Set own game mode to Survival Mode]
+[12:02:50] [Server thread/INFO]: [sachdeeparora: Set own game mode to Spectator Mode]
+[12:02:56] [Server thread/INFO]: [sachdeeparora: Set own game mode to Survival Mode]
+[12:09:31] [Server thread/INFO]: sachdeeparora tried to swim in lava
+[12:12:58] [Server thread/INFO]: [sachdeeparora: Set own game mode to Creative Mode]
+[12:13:00] [Server thread/INFO]: [sachdeeparora: Set own game mode to Spectator Mode]
+[12:13:34] [Server thread/INFO]: sachdeeparora has made the advancement [A Terrible Fortress]
+[12:14:03] [Server thread/INFO]: [sachdeeparora: Set own game mode to Creative Mode]
+[12:14:05] [Server thread/INFO]: [sachdeeparora: Set own game mode to Survival Mode]
+[12:15:11] [Server thread/INFO]: sachdeeparora has made the advancement [Into Fire]
+[12:15:59] [Server thread/INFO]: sachdeeparora has made the advancement [Spooky Scary Skeleton]
+[12:22:06] [Server thread/INFO]: [sachdeeparora: Set own game mode to Spectator Mode]
+[12:23:15] [Server thread/INFO]: sachdeeparora issued server command: /locate structure minecraft:bastion_remnant
+[12:23:15] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[12:23:41] [Server thread/INFO]: sachdeeparora has made the advancement [Those Were the Days]
+[12:24:34] [Server thread/INFO]: [sachdeeparora: Set own game mode to Survival Mode]
+[12:30:27] [Server thread/INFO]: [sachdeeparora: Set own game mode to Spectator Mode]
+[12:30:38] [Server thread/INFO]: [sachdeeparora: Set own game mode to Survival Mode]
+[12:30:39] [Server thread/INFO]: sachdeeparora has made the advancement [War Pigs]
+[12:30:51] [Server thread/INFO]: [sachdeeparora: Set own game mode to Spectator Mode]
+[12:31:05] [Server thread/INFO]: Made sachdeeparora no longer a server operator
+[12:32:02] [Server thread/INFO]: sachdeeparora lost connection: Disconnected
+[12:32:02] [Server thread/INFO]: sachdeeparora left the game
+[12:33:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:34:48] [Server thread/INFO]: Stopping the server
+[12:34:48] [Server thread/INFO]: Stopping server
+[12:34:48] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.4.0
+[12:34:48] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[12:34:48] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.69
+[12:34:48] [Server thread/INFO]: Saving players
+[12:34:48] [Server thread/INFO]: Saving worlds
+[12:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:34:48] [Server thread/INFO]: Thread Query Listener stopped
+[12:34:48] [Management server IO #1/INFO]: RPC Connection #1: Management connection closed for /172.20.0.1:10516
